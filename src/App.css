@@ -1,6 +1,7 @@
 .app {
 	display: flex;
 	height: 100vh;
+	background: darkgray;
 }
 
 .counter, .state {
@@ -18,7 +19,7 @@
 }
 
 .state {
-	background-color: #d5d3d5;
+	background-color: #6b696b;
 	overflow: scroll;
 }
 
